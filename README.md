@@ -1,2 +1,2 @@
 # Cut-It
-Game Challange
+This repository is made for a game challange
